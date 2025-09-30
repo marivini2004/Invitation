@@ -1,0 +1,24 @@
+body{
+    background-image: url(WhatsApp\ Image\ 2025-09-13\ at\ 11.18.18_74a45ea4\ copy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    margin-top: 30%;
+}
+h2
+{
+    font-style: inherit;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+.place{
+    margin-top: 10%;
+    margin-left: 20%
+
+
+}
+
+.date{
+    margin-top: 6%;
+    margin-left: 70%;
+}
